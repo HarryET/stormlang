@@ -1,1 +1,1 @@
-A simple command-line application.
+# Storm Language entry to repl.it's programming challenge
