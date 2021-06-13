@@ -1,0 +1,13 @@
+namespace HarryET.example;
+
+import storm.io;
+
+main(args := list<string>) returning void {
+  const name = "Harry;
+  mut age = 14;
+  io.write("Hello World");
+}
+
+print() {
+  io.write("Example");
+}
